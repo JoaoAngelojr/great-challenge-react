@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Desafio GREAT
+
+Aplicação web criada com React.js para consumir a web API desenvolvida para o desafio.
+
+## Prerequisites
+
+Modificar no arquivo Api.js a string de conexão para a api que será consumida:
+
+```
+baseURL: 'URL_FROM_YOUR_WEB_API'
+```
 
 ## Available Scripts
 
